@@ -1,0 +1,16 @@
+../Core/Src/main.c:156:5:main	2
+../Core/Src/main.c:212:6:SystemClock_Config	3
+../Core/Src/main.c:259:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:292:13:MX_GPIO_Init	1
+../Core/Src/main.c:420:1:__io_putchar	1
+../Core/Src/main.c:428:6:HAL_GPIO_EXTI_Callback	20
+../Core/Src/main.c:515:20:putToQueue	4
+../Core/Src/main.c:552:9:transformData	1
+../Core/Src/main.c:564:20:sendFromQueue	3
+../Core/Src/main.c:592:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:604:6:unpackDataLED	2
+../Core/Src/main.c:619:6:updateLEDOutput	3
+../Core/Src/main.c:639:6:updateLeds	2
+../Core/Src/main.c:652:6:turnOffLED	2
+../Core/Src/main.c:665:20:readDatabuttons	5
+../Core/Src/main.c:697:6:Error_Handler	1
