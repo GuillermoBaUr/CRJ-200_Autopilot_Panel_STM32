@@ -6,6 +6,11 @@ It handles **buttons, encoders, LEDs, data packing/unpacking, debouncing, and UA
 
 The main firmware logic is located in [`main.c`](./Core/Src/main.c).
 
+## 📸 Media
+
+![CRJ-200](Img_project/CRJ-200.jpg)
+![CRJ-200-2](Img_project/crj-200-2.jpeg)
+
 ---
 
 ## Overview
@@ -82,9 +87,6 @@ typedef struct LinkedListNode {
 - **Reliable Event Queue** implemented using a dynamic linked list  
 - **Non‑Blocking I/O** using EXTI + interrupt‑driven UART  
 - **Clean, Modular Codebase** designed for avionics‑style reliability
-
-## 📸 Media
-
 
 ## 📬 Contact
 If you have any questions:
