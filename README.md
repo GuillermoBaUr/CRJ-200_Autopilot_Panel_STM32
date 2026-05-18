@@ -88,10 +88,12 @@ typedef struct LinkedListNode {
 - **Non‑Blocking I/O** using EXTI + interrupt‑driven UART  
 - **Clean, Modular Codebase** designed for avionics‑style reliability
 
-## 📬 Contact
-If you have any questions:
-📧 badillouribeguillermoca@gmail.com
+---
 
-## 📄 License
+📬 **Contact** 
+If you have any questions:  
+📧 [badillouribeguillermoca@gmail.com](mailto:badillouribeguillermoca@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-badillo-uribe-382301228/)   
+
+📄 **License** 
 This repository is licensed under the MIT License.
-
